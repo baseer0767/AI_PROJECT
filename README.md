@@ -1,4 +1,4 @@
-# AI_PROJECT
+# Handwritteen Digit Recognition
 
 ## Overview
 AI_PROJECT is an advanced artificial intelligence project designed to showcase modern AI techniques and technologies. This repository contains the source code, documentation, and resources needed to understand, run, and extend the project.
